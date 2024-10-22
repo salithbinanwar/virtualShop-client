@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
-import spotify from '../images/spotify-premium-Account.png'
-import steam from '../images/steam-USD.png'
-import youtube from '../images/youtube-premium.jpg'
+import spotify from '../images/spotify.png'
+import steam from '../images/steam.png'
+import youtube from '../images/youtube.jpg'
 function StorePage() {
   const products = [
     {

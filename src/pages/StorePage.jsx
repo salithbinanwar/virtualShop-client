@@ -8,7 +8,7 @@ function StorePage() {
       name: 'Spotify Premium',
       description:
         'Enjoy ad-free music streaming with Spotify Premium. Available for 1 year.',
-      price: 20,
+      price: 120,
       image: spotify, // Replace with the actual image path
     },
     {
@@ -20,7 +20,7 @@ function StorePage() {
     {
       name: 'YouTube Premium',
       description: 'Watch YouTube videos without ads and enjoy other benefits.',
-      price: 60,
+      price: 260,
       image: youtube, // Replace with the actual image path
     },
 
